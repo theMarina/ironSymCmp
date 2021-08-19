@@ -1,3 +1,0 @@
-KLEE: Using Z3 solver backend
-KLEE: ERROR: superglue.c:35: ASSERTION FAIL: memcmp(&patched_bumper, &vuln_bumper, sizeof(bumper)) == 0
-KLEE: NOTE: now ignoring this error at this location
