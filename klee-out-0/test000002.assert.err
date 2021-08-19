@@ -1,0 +1,6 @@
+Error: ASSERTION FAIL: memcmp(&patched_bumper, &vuln_bumper, sizeof(bumper)) == 0
+File: superglue.c
+Line: 35
+assembly.ll line: 196
+Stack: 
+	#000000196 in main () at superglue.c:35

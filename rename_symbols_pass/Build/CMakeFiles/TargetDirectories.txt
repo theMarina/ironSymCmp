@@ -1,0 +1,4 @@
+/home/mini/workspace/ironpatch/ironSymCmp/rename_symbols_pass/Build/CMakeFiles/rebuild_cache.dir
+/home/mini/workspace/ironpatch/ironSymCmp/rename_symbols_pass/Build/CMakeFiles/edit_cache.dir
+/home/mini/workspace/ironpatch/ironSymCmp/rename_symbols_pass/Build/CMakeFiles/hw1.dir
+/home/mini/workspace/ironpatch/ironSymCmp/rename_symbols_pass/Build/CMakeFiles/intrinsics_gen.dir

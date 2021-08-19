@@ -1,0 +1,22 @@
+klee linked.bc
+PID: 7270
+Using monotonic steady clock with 1/1000000000s resolution
+Started: 2021-08-08 12:16:23
+BEGIN searcher description
+<InterleavedSearcher> containing 2 searchers:
+RandomPathSearcher
+WeightedRandomSearcher::CoveringNew
+</InterleavedSearcher>
+END searcher description
+Finished: 2021-08-08 12:16:23
+Elapsed: 00:00:00
+KLEE: done: explored paths = 7
+KLEE: done: avg. constructs per query = 11
+KLEE: done: total queries = 7
+KLEE: done: valid queries = 1
+KLEE: done: invalid queries = 6
+KLEE: done: query cex = 7
+
+KLEE: done: total instructions = 3455
+KLEE: done: completed paths = 7
+KLEE: done: generated tests = 7
